@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-inventory-list/static/css/main.bfa4dff7.css",
+    "main.js": "/react-inventory-list/static/js/main.da815f71.js",
+    "index.html": "/react-inventory-list/index.html",
+    "main.bfa4dff7.css.map": "/react-inventory-list/static/css/main.bfa4dff7.css.map",
+    "main.da815f71.js.map": "/react-inventory-list/static/js/main.da815f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa4dff7.css",
+    "static/js/main.da815f71.js"
+  ]
+}
